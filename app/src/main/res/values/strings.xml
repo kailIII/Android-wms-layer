@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_earth_engine">Earth Engine</string>
+    <string name="menu_nationalatlas_precip">NationalAtlas</string>
+    <string name="menu_noaa_warnings">Noa Warnings</string>
+    <string name="menu_noaa_radar">Sehir Haritası</string>
+    <string name="menu_usgs_counties">USGS Countries</string>
+    <string name="menu_google">Google Map</string>
+    <string name="menu_sehirharitasi">Şehir Haritası</string>
+
+</resources>
